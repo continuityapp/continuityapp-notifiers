@@ -1,0 +1,5 @@
+development:
+    crypt_secret: s3cr3t
+
+test:
+    crypt_secret: s3cr3t
